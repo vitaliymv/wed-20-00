@@ -2,3 +2,4 @@ some text
 third text
 second text
 new feature 1
+new fix
